@@ -1,5 +1,5 @@
 ## JAVA-DS-ALGO
-Hackerrank-Euler-Project solutions in Python, Java , C/C++, Ruby , C#, Scala etc.
+Hackerrank-Euler-Project solutions in Python, Java, C/C++, Ruby, C#, Scala etc.
 
 ## Content
 1. Euler #1: Multiples of 3 and 5
